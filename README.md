@@ -1,6 +1,7 @@
-### Hi there 👋
+### 👋 Hello, I'm Ahmet 
 - 🌱 I’m currently learning: [![](https://fastapi.tiangolo.com/img/icon-white.svg)](https://fastapi.tiangolo.com/)
 - 📫 How to reach me: [![linkedin](https://github.com/ahmetcotul/ahmetcotul/assets/83516837/215a0ca9-1ff2-4f9d-994f-72e107408b5e)](https://www.linkedin.com/in/ahmetcotul)
+
 
 
 <!--
