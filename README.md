@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Ahmet 
-- 🌱 I’m currently learning: 
-- 📫 How to reach me: [![linkedin](https://github.com/ahmetcotul/ahmetcotul/assets/83516837/215a0ca9-1ff2-4f9d-994f-72e107408b5e)](https://www.linkedin.com/in/ahmetcotul)
+- 🌱 I’m currently learning: <a href="https://vuejs.org"> <img width="30px" height="30px" src="https://skillicons.dev/icons?i=vue" ></a></br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ahmetcotul"><img width="30px" height="30px" src="https://skillicons.dev/icons?i=linkedin" ></a>
 
 <a href="https://github.com/ahmetcotul">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html" ></br>
@@ -11,6 +11,8 @@
 
 <!--
  [![](https://fastapi.tiangolo.com/img/icon-white.svg)](https://fastapi.tiangolo.com/)
+ - [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmetcotul)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
