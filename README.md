@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Ahmet 
-- 🌱 I’m currently learning: <a href="https://vuejs.org"> <img width="30px" height="30px" src="https://skillicons.dev/icons?i=vue" ></a></br>
+- 🌱 I’m currently learning: <a href="https://vuejs.org"> <img width="30px" height="30px" src="https://skillicons.dev/icons?i=vue" ></a> <a href="https://laravel.com"> <img width="30px" height="30px" src="https://skillicons.dev/icons?i=laravel" ></a></br></br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ahmetcotul"><img width="30px" height="30px" src="https://skillicons.dev/icons?i=linkedin" ></a>
 
 <a href="https://github.com/ahmetcotul">
