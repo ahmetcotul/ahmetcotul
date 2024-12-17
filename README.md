@@ -1,6 +1,9 @@
 ### 👋 Hello, I'm Ahmet 
 - 🌱 I’m currently learning: <a href="https://vuejs.org"> <img width="30px" height="30px" src="https://skillicons.dev/icons?i=vue" ></a> <a href="https://laravel.com"> <img width="30px" height="30px" src="https://skillicons.dev/icons?i=laravel" ></a></br></br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ahmetcotul"><img width="30px" height="30px" src="https://skillicons.dev/icons?i=linkedin" ></a>
+- 📫 How to reach me:<a href="mailto:ahmet.info@proton.me" >
+  📧Email
+</a>
+
 
 <a href="https://github.com/ahmetcotul">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html" ></br>
