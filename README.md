@@ -1,4 +1,5 @@
 ### 👋 Hello, I'm Ahmet 
+![](./Assets/Gifs/ohh-deadpool.gif)
 - 🌱 I’m currently learning: <a href="https://vuejs.org"> <img width="30px" height="30px" src="https://skillicons.dev/icons?i=vue" ></a> <a href="https://laravel.com"> <img width="30px" height="30px" src="https://skillicons.dev/icons?i=laravel" ></a></br></br>
 - 📫 How to reach me:<a href="mailto:ahmet.info@proton.me" >
   📧Email
@@ -10,6 +11,7 @@
   <img src="https://skillicons.dev/icons?i=angular,fastapi,tailwindcss,typescript,css" >
 
 </a>
+
 
 
 <!--
